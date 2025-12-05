@@ -21,7 +21,6 @@ Your app will be live at `your-project-name.vercel.app`
 2. Drag and drop the `dist` folder (after running `npm run build`)
 3. Or connect your GitHub repo for automatic deploys
 
-
 ---
 
 ## 💻 Local Development
